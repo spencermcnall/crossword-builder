@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crossword-builder/static/css/main.34d2edca.css",
+    "main.js": "/crossword-builder/static/js/main.81da2e93.js",
+    "index.html": "/crossword-builder/index.html",
+    "main.34d2edca.css.map": "/crossword-builder/static/css/main.34d2edca.css.map",
+    "main.81da2e93.js.map": "/crossword-builder/static/js/main.81da2e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d2edca.css",
+    "static/js/main.81da2e93.js"
+  ]
+}
